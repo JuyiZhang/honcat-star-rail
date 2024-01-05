@@ -123,6 +123,7 @@ public class SpawnObjectManager : MonoBehaviour
         editMode = false;
         //raycastManager.RemoveRaycast(globalRaycast);
         currentObject.GetComponent<ObjectMaterialManager>().SetFinished();
+        currentObject = null;
         DisplayEditUI();
     }
 
