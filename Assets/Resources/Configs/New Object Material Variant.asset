@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c83c6dfb5c0754e62a1f53019a2512f8, type: 3}
+  m_Name: New Object Material Variant
+  m_EditorClassIdentifier: 
+  names:
+  - Original
+  - Clara
+  - Danheng
+  - Guinevere
+  - Herta
+  - Kafka
+  - March7
+  - Qingque
+  - Ren
+  - Ruanmei
+  - Ye
+  uis:
+  - {fileID: 21300000, guid: f61fb9e1221044df6b6dff7f06ea97e9, type: 3}
+  - {fileID: 21300000, guid: 8ec1fba9901404f309a2102b3854ae65, type: 3}
+  - {fileID: 21300000, guid: 05e01df445df4433c96cd22c9a23eb7b, type: 3}
+  - {fileID: 21300000, guid: 41988397b5d1f43b3966f9f987bf280b, type: 3}
+  - {fileID: 21300000, guid: 7b5227d610bfd4edab98a2908bed8501, type: 3}
+  - {fileID: 21300000, guid: beb9a14f0c25541349ae79b1e21a428a, type: 3}
+  - {fileID: 21300000, guid: 344833b6991b7418f8c18b05f1bda6e7, type: 3}
+  - {fileID: 21300000, guid: 4e45c97102e5f46728b8056d4faa8a00, type: 3}
+  - {fileID: 21300000, guid: 759227a3099b94333ab8c1b68de76f0b, type: 3}
+  - {fileID: 21300000, guid: 87e80d1584bff444d89399d32829c1c7, type: 3}
+  - {fileID: 21300000, guid: 60ff0f4fc0de94508973eb18208141ad, type: 3}
+  materials:
+  - {fileID: 2100000, guid: eb9da888d19cf4b3f90f4246ccc1b7d0, type: 2}
+  - {fileID: 2100000, guid: 9e884dc945c114973ac686b403bf2725, type: 2}
+  - {fileID: 2100000, guid: 97139f8221ac04bd4a66b6cdd1f233b3, type: 2}
+  - {fileID: 2100000, guid: 8bc3c86eea1f1467db152f1abdea9446, type: 2}
+  - {fileID: 2100000, guid: 370182563f2c743039b954e872b4252d, type: 2}
+  - {fileID: 2100000, guid: d3faa59352c69401eac5a1143cfbe26b, type: 2}
+  - {fileID: 2100000, guid: a6c457b48d31c40a799ecd98b3dac6d7, type: 2}
+  - {fileID: 2100000, guid: ef1df6fcf29ef405588542917bbb7416, type: 2}
+  - {fileID: 2100000, guid: d4c8aba19e15d40aa9c3eb64b17a2dd6, type: 2}
+  - {fileID: 2100000, guid: 63769dca885f24385a6f587ef4dcf340, type: 2}
+  - {fileID: 2100000, guid: a19180bbf5a3d492398ff9c489bded8f, type: 2}
